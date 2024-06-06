@@ -1,3 +1,2 @@
-# leetcode-145-top
+# DSA with Python
 Interview Preparation
-My new jouney - Thanking God
